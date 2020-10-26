@@ -1,7 +1,7 @@
 # World_Weather_Analysis
 
 ## Aim
-The aim of this project is retrieve the weather data for a number of cities based and add the information to a map
+The aim of this project is display travel-related information, such weather data and accommodation data, on a map
 
 ## Process
 
